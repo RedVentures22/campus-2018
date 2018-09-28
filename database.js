@@ -1,10 +1,11 @@
 class Database {
   constructor() {
-    this.id = 1;
+    this.id = 0;
     this.data = [];
   };
 
   insertUser(user) {
+    user.id = this.id++;
     this.data.push(user);
   };
 };
