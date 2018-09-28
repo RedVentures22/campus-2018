@@ -1,0 +1,26 @@
+{
+  "name": "campus-2018",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedVentures22/campus-2018.git"
+  },
+  "author": "Trevor Hutto <thutto@redventures.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedVentures22/campus-2018/issues"
+  },
+  "homepage": "https://github.com/RedVentures22/campus-2018#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
