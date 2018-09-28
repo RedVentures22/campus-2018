@@ -1,9 +1,11 @@
 const express = require('express');
+const morgan = require('morgan');
+
 const app = express();
-
 const Database = require('./database');
-
 const db = new Database();
+
+app.use(morgan('tiny'));
 
 app.get('/health', (req, res) => {
     res.status(200).send('alive and well');
