@@ -16,6 +16,8 @@ docker run -p 3000:3000 campus-2018
 ## Contact Us
 Feel free to reach out with questions about this project, or Red Ventures in general!
 * Mary Kate Chester (Senior Recruiter) <mchester@redventures.com>
-* Carly Davis (Recruiter) <cdavis@redventures.com>
+* Carly Davis (Recruiter) <cadavis@redventures.com>
 * Trevor Hutto (Senior Engineer) <thutto@redventures.com>
 * Jared Piedt (Engineer) <jpiedt@redventures.com>
+
+## To Apply
