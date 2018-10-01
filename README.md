@@ -13,11 +13,14 @@ docker build -t campus-2018 .
 docker run -p 3000:3000 campus-2018
 ```
 
+## To Apply
+We encourage you to view our open jobs [here](https://www.redventures.com/careers.html?utm_source=github&utm_medium=readme&utm_campaign=campus-2018)!
+
+> Please enter `github:campus-2018` in the _how you heard about us_ field.
+
 ## Contact Us
 Feel free to reach out with questions about this project, or Red Ventures in general!
 * Mary Kate Chester (Senior Recruiter) <mchester@redventures.com>
 * Carly Davis (Recruiter) <cadavis@redventures.com>
 * Trevor Hutto (Senior Engineer) <thutto@redventures.com>
 * Jared Piedt (Engineer) <jpiedt@redventures.com>
-
-## To Apply
