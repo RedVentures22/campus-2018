@@ -1,12 +1,16 @@
 class Database {
   constructor() {
-    this.id = 0;
-    this.data = [];
+    this.id = 1;
+    this.users = [];
   };
 
   insertUser(user) {
     user.id = this.id++;
-    this.data.push(user);
+    this.users.push(user);
+  };
+
+  getUsers() {
+    return this.users;
   };
 };
 
